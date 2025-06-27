@@ -1,0 +1,35 @@
+[
+    {
+        "image": "AMB_R6_C9_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 238.0,
+                    "y": 93.19444444444444,
+                    "width": 205.0,
+                    "height": 186.38888888888889
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 100.5,
+                    "y": 133.88888888888889,
+                    "width": 148.0,
+                    "height": 87.0
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 406.0,
+                    "y": 40.19444444444444,
+                    "width": 199.0,
+                    "height": 80.38888888888889
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "image": "AMB_R4_C3_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 488.5,
+                    "y": 263.0,
+                    "width": 137,
+                    "height": 366
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 344.5,
+                    "y": 323.5,
+                    "width": 231,
+                    "height": 245
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 65.5,
+                    "y": 390.0,
+                    "width": 129,
+                    "height": 98
+                }
+            }
+        ]
+    }
+]

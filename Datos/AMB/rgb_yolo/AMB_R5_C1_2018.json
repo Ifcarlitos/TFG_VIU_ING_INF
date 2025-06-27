@@ -1,0 +1,62 @@
+[
+    {
+        "image": "AMB_R5_C1_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 291.5,
+                    "y": 160.0,
+                    "width": 187,
+                    "height": 204
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 126.5,
+                    "y": 258.5,
+                    "width": 217,
+                    "height": 125
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 456.5,
+                    "y": 265.0,
+                    "width": 203,
+                    "height": 342
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 279.5,
+                    "y": 48.0,
+                    "width": 411,
+                    "height": 94
+                }
+            },
+            {
+                "label": "Agricola",
+                "coordinates": {
+                    "x": 494.5,
+                    "y": 99.5,
+                    "width": 83,
+                    "height": 75
+                }
+            },
+            {
+                "label": "Agricola",
+                "coordinates": {
+                    "x": 96.0,
+                    "y": 149.0,
+                    "width": 182,
+                    "height": 102
+                }
+            }
+        ]
+    }
+]

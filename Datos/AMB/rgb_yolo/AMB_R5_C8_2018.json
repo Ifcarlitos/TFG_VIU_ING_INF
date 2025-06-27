@@ -1,0 +1,17 @@
+[
+    {
+        "image": "AMB_R5_C8_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 71.0,
+                    "y": 25.0,
+                    "width": 128,
+                    "height": 48
+                }
+            }
+        ]
+    }
+]

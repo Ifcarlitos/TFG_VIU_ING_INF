@@ -1,0 +1,26 @@
+[
+    {
+        "image": "AMB_R2_C4_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 183.0,
+                    "y": 304.5,
+                    "width": 364,
+                    "height": 283
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 307.0,
+                    "y": 79.5,
+                    "width": 374,
+                    "height": 157
+                }
+            }
+        ]
+    }
+]

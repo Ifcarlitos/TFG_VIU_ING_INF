@@ -1,0 +1,53 @@
+[
+    {
+        "image": "AMB_R6_C0_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 191.5,
+                    "y": 281.0,
+                    "width": 111,
+                    "height": 88
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 81.5,
+                    "y": 404.5,
+                    "width": 131,
+                    "height": 81
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 475.5,
+                    "y": 50.5,
+                    "width": 163,
+                    "height": 99
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 47.0,
+                    "y": 151.0,
+                    "width": 68,
+                    "height": 48
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 104.5,
+                    "y": 46.0,
+                    "width": 97,
+                    "height": 58
+                }
+            }
+        ]
+    }
+]

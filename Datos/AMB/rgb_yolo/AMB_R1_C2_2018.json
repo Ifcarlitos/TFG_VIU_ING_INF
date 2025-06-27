@@ -1,0 +1,35 @@
+[
+    {
+        "image": "AMB_R1_C2_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 280.0,
+                    "y": 336.0,
+                    "width": 556,
+                    "height": 220
+                }
+            },
+            {
+                "label": "Agricola",
+                "coordinates": {
+                    "x": 131.0,
+                    "y": 113.5,
+                    "width": 260,
+                    "height": 225
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 409.5,
+                    "y": 113.5,
+                    "width": 297,
+                    "height": 225
+                }
+            }
+        ]
+    }
+]

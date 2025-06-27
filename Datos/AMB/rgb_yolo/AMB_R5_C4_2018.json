@@ -1,0 +1,107 @@
+[
+    {
+        "image": "AMB_R5_C4_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 417.5,
+                    "y": 82.0,
+                    "width": 101,
+                    "height": 126
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 378.0,
+                    "y": 230.0,
+                    "width": 130,
+                    "height": 122
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 304.0,
+                    "y": 316.0,
+                    "width": 126,
+                    "height": 86
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 471.5,
+                    "y": 412.5,
+                    "width": 173,
+                    "height": 67
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 524.5,
+                    "y": 329.5,
+                    "width": 67,
+                    "height": 41
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 201.5,
+                    "y": 99.0,
+                    "width": 167,
+                    "height": 76
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 34.5,
+                    "y": 50.5,
+                    "width": 67,
+                    "height": 83
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 230.0,
+                    "y": 39.5,
+                    "width": 234,
+                    "height": 75
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 188.5,
+                    "y": 166.0,
+                    "width": 125,
+                    "height": 46
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 220.5,
+                    "y": 269.5,
+                    "width": 123,
+                    "height": 95
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 466.0,
+                    "y": 353.5,
+                    "width": 100,
+                    "height": 67
+                }
+            }
+        ]
+    }
+]

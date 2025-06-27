@@ -1,0 +1,89 @@
+[
+    {
+        "image": "AMB_R6_C4_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Agricola",
+                "coordinates": {
+                    "x": 278.5,
+                    "y": 231.5,
+                    "width": 249,
+                    "height": 329
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 447.0,
+                    "y": 305.5,
+                    "width": 138,
+                    "height": 199
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 540.0,
+                    "y": 164.5,
+                    "width": 36,
+                    "height": 113
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 71.5,
+                    "y": 159.5,
+                    "width": 141,
+                    "height": 143
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 45.0,
+                    "y": 21.5,
+                    "width": 88,
+                    "height": 41
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 151.5,
+                    "y": 405.5,
+                    "width": 301,
+                    "height": 81
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 116.0,
+                    "y": 325.5,
+                    "width": 226,
+                    "height": 171
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 375.0,
+                    "y": 403.0,
+                    "width": 172,
+                    "height": 86
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 451.5,
+                    "y": 133.0,
+                    "width": 191,
+                    "height": 156
+                }
+            }
+        ]
+    }
+]

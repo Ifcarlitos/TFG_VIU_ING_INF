@@ -1,0 +1,26 @@
+[
+    {
+        "image": "AMB_R0_C1_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Agricola",
+                "coordinates": {
+                    "x": 280.5,
+                    "y": 90.5,
+                    "width": 555,
+                    "height": 179
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 254.5,
+                    "y": 231.5,
+                    "width": 505,
+                    "height": 75
+                }
+            }
+        ]
+    }
+]

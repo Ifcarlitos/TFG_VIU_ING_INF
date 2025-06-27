@@ -1,0 +1,53 @@
+[
+    {
+        "image": "AMB_R1_C1_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 178.0,
+                    "y": 194.0,
+                    "width": 354,
+                    "height": 322
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 95.5,
+                    "y": 391.0,
+                    "width": 185,
+                    "height": 64
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 417.5,
+                    "y": 76.0,
+                    "width": 281,
+                    "height": 150
+                }
+            },
+            {
+                "label": "Agricola",
+                "coordinates": {
+                    "x": 458.0,
+                    "y": 300.5,
+                    "width": 200,
+                    "height": 291
+                }
+            },
+            {
+                "label": "Agricola",
+                "coordinates": {
+                    "x": 247.5,
+                    "y": 362.0,
+                    "width": 339,
+                    "height": 166
+                }
+            }
+        ]
+    }
+]

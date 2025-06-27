@@ -1,0 +1,44 @@
+[
+    {
+        "image": "AMB_R1_C0_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 471.5,
+                    "y": 224.5,
+                    "width": 171,
+                    "height": 297
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 220.5,
+                    "y": 327.5,
+                    "width": 179,
+                    "height": 121
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 169.5,
+                    "y": 157.0,
+                    "width": 223,
+                    "height": 92
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 396.5,
+                    "y": 431.5,
+                    "width": 321,
+                    "height": 29
+                }
+            }
+        ]
+    }
+]

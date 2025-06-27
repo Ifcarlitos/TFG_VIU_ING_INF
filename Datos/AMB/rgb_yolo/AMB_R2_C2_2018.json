@@ -1,0 +1,62 @@
+[
+    {
+        "image": "AMB_R2_C2_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Agricola",
+                "coordinates": {
+                    "x": 122.5,
+                    "y": 328.0,
+                    "width": 233,
+                    "height": 140
+                }
+            },
+            {
+                "label": "Agricola",
+                "coordinates": {
+                    "x": 312.0,
+                    "y": 339.5,
+                    "width": 214,
+                    "height": 127
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 448.0,
+                    "y": 405.5,
+                    "width": 220,
+                    "height": 81
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 277.5,
+                    "y": 140.5,
+                    "width": 553,
+                    "height": 279
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 387.0,
+                    "y": 209.5,
+                    "width": 178,
+                    "height": 117
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 487.5,
+                    "y": 178.5,
+                    "width": 135,
+                    "height": 165
+                }
+            }
+        ]
+    }
+]

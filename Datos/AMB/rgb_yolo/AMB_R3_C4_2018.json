@@ -1,0 +1,35 @@
+[
+    {
+        "image": "AMB_R3_C4_2018.jpg",
+        "verified": false,
+        "annotations": [
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 160.0,
+                    "y": 223.0,
+                    "width": 318,
+                    "height": 444
+                }
+            },
+            {
+                "label": "Poblacion",
+                "coordinates": {
+                    "x": 437.0,
+                    "y": 193.0,
+                    "width": 242,
+                    "height": 384
+                }
+            },
+            {
+                "label": "Industria",
+                "coordinates": {
+                    "x": 359.0,
+                    "y": 382.0,
+                    "width": 130,
+                    "height": 130
+                }
+            }
+        ]
+    }
+]
