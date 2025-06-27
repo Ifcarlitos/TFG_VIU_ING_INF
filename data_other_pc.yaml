@@ -1,0 +1,5 @@
+train: C:/Users/crome/Desktop/VIU/Code/Datos/AMB/rgb_yolo/train/images
+val: C:/Users/crome/Desktop/VIU/Code/Datos/AMB/rgb_yolo/val/images
+
+nc: 3
+names: ['Agricola', 'Industria', 'Poblacion']
